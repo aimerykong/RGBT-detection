@@ -1,6 +1,6 @@
 # Multimodal Object Detection via Bayesian Fusion
 
-For project information, please refer to our [project page](https://mscvprojects.ri.cmu.edu/2020teamc/team/ "RGBT-detection")
+For project information, please refer to our [project page](https://mscvprojects.ri.cmu.edu/2020teamc/ "RGBT-detection")
 Please see a [video demo](https://www.youtube.com/watch?v=vRJTlpsGvTs "RGBT-detection")
 
 
