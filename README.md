@@ -14,7 +14,7 @@ Object detection with multimodal inputs can improve many safety-critical percept
 
 
 
-If you find our model/method/dataset useful, please cite our work ([arxiv manuscript](https://arxiv.org/abs/1712.08273)):
+If you find our model/method/dataset useful, please cite our work ([arxiv manuscript](https://github.com/aimerykong/RGBT-detection)):
 
     @inproceedings{RGBT-detection,
       title={Multimodal Object Detection via Bayesian Fusion},
