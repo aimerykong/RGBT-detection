@@ -1,7 +1,8 @@
 # Multimodal Object Detection via Bayesian Fusion
 
 For project information, please refer to our [project page](https://mscvprojects.ri.cmu.edu/2020teamc/ "RGBT-detection")
-Please see a [video demo](https://www.youtube.com/watch?v=vRJTlpsGvTs "RGBT-detection")
+This is a mirror of our [complete code](https://github.com/Jamie725/RGBT-detection)
+Please watch this [video demo](https://youtu.be/vRJTlpsGvTs "RGBT-detection").
 
 
 ![alt text](https://mscvprojects.ri.cmu.edu/2020teamc/wp-content/uploads/sites/33/2020/05/Header.jpg "video demo")
@@ -19,7 +20,7 @@ If you find our model/method/dataset useful, please cite our work ([arxiv manusc
     @inproceedings{RGBT-detection,
       title={Multimodal Object Detection via Bayesian Fusion},
       author={Chen, Yi-Ting and Shi, Jinghao and Mertz, Christoph and Kong, Shu and Ramanan, Deva},
-      booktitle={preprint},
+      booktitle={preprint: arXiv:2104.02904},
       year={2021}
     }
 
