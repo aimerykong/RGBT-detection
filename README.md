@@ -2,7 +2,7 @@
 
 For project information, please refer to our [project page](https://mscvprojects.ri.cmu.edu/2020teamc/ "RGBT-detection")
 This is a mirror of our [complete code](https://github.com/Jamie725/RGBT-detection)
-Please watch this [video demo](https://youtu.be/vRJTlpsGvTs "RGBT-detection").
+Please watch this [video demo](https://youtu.be/vRJTlpsGvTs "RGBT-detection"). Here is our [arxiv preprint](https://arxiv.org/abs/2104.02904)
 
 
 ![alt text](https://mscvprojects.ri.cmu.edu/2020teamc/wp-content/uploads/sites/33/2020/05/Header.jpg "video demo")
@@ -15,7 +15,7 @@ Object detection with multimodal inputs can improve many safety-critical percept
 
 
 
-If you find our model/method/dataset useful, please cite our work ([arxiv manuscript](https://github.com/aimerykong/RGBT-detection)):
+If you find our model/method/dataset useful, please cite our work ([arxiv manuscript](https://arxiv.org/abs/2104.02904)):
 
     @inproceedings{RGBT-detection,
       title={Multimodal Object Detection via Bayesian Fusion},
