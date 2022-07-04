@@ -1,14 +1,18 @@
-# Multimodal Object Detection via Bayesian Fusion
+# Multimodal Object Detection via Probabilistic Ensembling
 
-For project information, please refer to our [project page](https://mscvprojects.ri.cmu.edu/2020teamc/ "RGBT-detection")
-This is a mirror of our [complete code](https://github.com/Jamie725/RGBT-detection)
-Please watch this [video demo](https://youtu.be/vRJTlpsGvTs "RGBT-detection"). Here is our [arxiv preprint](https://arxiv.org/abs/2104.02904)
+ECCV 2022 
+[project page](https://mscvprojects.ri.cmu.edu/2020teamc/ "RGBT-detection") 
+[code](https://github.com/Jamie725/RGBT-detection)
+[video demo](https://youtu.be/vRJTlpsGvTs "RGBT-detection")
+[arxiv preprint](https://arxiv.org/abs/2104.02904)
 
+**Authors**: Yi-Ting Chen*, Jinghao Shi*, Zelin Ye*, Christoph Mertz, Shu Kong^, Deva Ramanan^
 
 ![alt text](https://mscvprojects.ri.cmu.edu/2020teamc/wp-content/uploads/sites/33/2020/05/Header.jpg "video demo")
 
 
-Object detection with multimodal inputs can improve many safety-critical perception systems such as autonomous vehicles (AVs). Motivated by AVs that operate in both day and night, we study multimodal object detection with RGB and thermal cameras, since the latter can provide much stronger object signatures under poor illumination. We explore strategies for fusing information from different modalities. Our key contribution is a non-learned late-fusion method that fuses together bounding box detections from different modalities via a simple probabilistic model derived from first principles. Our simple approach, which we call Bayesian Fusion, is readily derived from conditional independence assumptions across different modalities. We apply our approach to benchmarks containing both aligned (KAIST) and unaligned (FLIR) multimodal sensor data. Our Bayesian Fusion outperforms prior work by more than {\bf 13\%} in relative performance.
+Object detection with multimodal inputs can improve many safety-critical systems such as autonomous vehicles (AVs). Motivated by AVs that operate in both day and night, we study multimodal object detection with RGB and thermal cameras, since the latter provides much stronger object signatures under poor illumination. We explore strategies for fusing information from different modalities. Our key contribution is a probabilistic ensembling technique, ProbEn, a simple non-learned method that fuses together detections from multi-modalities. We derive ProbEn from Bayes' rule and first principles that assume conditional independence across modalities. Through probabilistic marginalization, ProbEn elegantly handles missing modalities when detectors do not fire on the same object. Importantly, ProbEn also notably improves multimodal detection even when the conditional independence assumption does not hold, e.g., fusing outputs from other fusion methods (both off-the-shelf and trained in-house). We validate ProbEn on two benchmarks containing both aligned (KAIST) and unaligned (FLIR) multimodal images, showing that ProbEn outperforms prior work by more than 13% in relative performance!
+
 
 
 **keywords**: Object Detection, Thermal, infrared camera, RGB-thermal detection, multimodality, multispectral, autonomous driving, sensor fusion, non-maximal suppression, probablistic modeling.
@@ -18,14 +22,14 @@ Object detection with multimodal inputs can improve many safety-critical percept
 If you find our model/method/dataset useful, please cite our work ([arxiv manuscript](https://arxiv.org/abs/2104.02904)):
 
     @inproceedings{RGBT-detection,
-      title={Multimodal Object Detection via Bayesian Fusion},
+      title={Multimodal Object Detection via Probabilistic Ensembling},
       author={Chen, Yi-Ting and Shi, Jinghao and Mertz, Christoph and Kong, Shu and Ramanan, Deva},
-      booktitle={preprint: arXiv:2104.02904},
-      year={2021}
+      booktitle={European Conference on Computer Vision},
+      year={2022}
     }
 
 
-last update: April, 2021
+last update: July, 2022
 
 Shu Kong
 
