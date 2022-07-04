@@ -10,7 +10,9 @@
 ![alt text](https://mscvprojects.ri.cmu.edu/2020teamc/wp-content/uploads/sites/33/2020/05/Header.jpg "video demo")
 
 
-**Authors**: Yi-Ting Chen <sup>*</sup>, Jinghao Shi <sup>*</sup>, Zelin Ye<sup>*</sup>, Christoph Mertz, Deva Ramanan<sup>#</sup>, Shu Kong<sup>#</sup>
+**Authors**: Yi-Ting Chen<sup>*</sup>, 
+Jinghao Shi<sup>*</sup>, 
+Zelin Ye<sup>*</sup>, Christoph Mertz, Deva Ramanan<sup>#</sup>, Shu Kong<sup>#</sup>
 
 
 
