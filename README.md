@@ -1,14 +1,18 @@
 # Multimodal Object Detection via Probabilistic Ensembling
 
-ECCV 2022 
+[ECCV 2022](https://eccv2022.ecva.net/)
 [project page](https://mscvprojects.ri.cmu.edu/2020teamc/ "RGBT-detection") 
 [code](https://github.com/Jamie725/RGBT-detection)
 [video demo](https://youtu.be/vRJTlpsGvTs "RGBT-detection")
 [arxiv preprint](https://arxiv.org/abs/2104.02904)
 
-**Authors**: Yi-Ting Chen*, Jinghao Shi*, Zelin Ye*, Christoph Mertz, Shu Kong^, Deva Ramanan^
 
 ![alt text](https://mscvprojects.ri.cmu.edu/2020teamc/wp-content/uploads/sites/33/2020/05/Header.jpg "video demo")
+
+
+**Authors**: Yi-Ting Chen*, Jinghao Shi*, Zelin Ye*, Christoph Mertz, Shu Kong^, Deva Ramanan^
+
+
 
 
 **Abstract** 
