@@ -10,7 +10,7 @@
 ![alt text](https://mscvprojects.ri.cmu.edu/2020teamc/wp-content/uploads/sites/33/2020/05/Header.jpg "video demo")
 
 
-**Authors**: Yi-Ting Chen*, Jinghao Shi*, Zelin Ye*, Christoph Mertz, Shu Kong^, Deva Ramanan^
+**Authors**: Yi-Ting Chen*, Jinghao Shi*, Zelin Ye*, Christoph Mertz, Deva Ramanan<sup>#</sup>, Shu Kong<sup>#</sup>
 
 
 
@@ -30,7 +30,7 @@ If you find our model/method/dataset useful, please cite our work ([arxiv manusc
     @inproceedings{RGBT-detection,
       title={Multimodal Object Detection via Probabilistic Ensembling},
       author={Chen, Yi-Ting and Shi, Jinghao and Mertz, Christoph and Kong, Shu and Ramanan, Deva},
-      booktitle={European Conference on Computer Vision},
+      booktitle={European Conference on Computer Vision (ECCV)},
       year={2022}
     }
 
