@@ -3,7 +3,8 @@
 [ECCV 2022](https://eccv2022.ecva.net/)
 [[project page]](https://mscvprojects.ri.cmu.edu/2020teamc/ "RGBT-detection") 
 [[code]](https://github.com/Jamie725/RGBT-detection)
-[[video demo]](https://youtu.be/vRJTlpsGvTs "RGBT-detection")
+[[video demo]](https://www.youtube.com/watch?v=VH7826g8u7c "RGBT-detection")
+
 [[paper]](https://arxiv.org/abs/2104.02904)
 
 
