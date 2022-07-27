@@ -1,6 +1,6 @@
 # Multimodal Object Detection via Probabilistic Ensembling
 
-[ECCV 2022](https://eccv2022.ecva.net/)
+[ECCV 2022 (oral)](https://eccv2022.ecva.net/)
 
 [[project page]](https://mscvprojects.ri.cmu.edu/2020teamc/ "RGBT-detection") 
 [[code]](https://github.com/Jamie725/RGBT-detection)
@@ -33,7 +33,7 @@ If you find our model/method/dataset useful, please cite our work ([arxiv manusc
 
     @inproceedings{RGBT-detection,
       title={Multimodal Object Detection via Probabilistic Ensembling},
-      author={Chen, Yi-Ting and Shi, Jinghao and Mertz, Christoph and Kong, Shu and Ramanan, Deva},
+      author={Chen, Yi-Ting and Shi, Jinghao and Mertz, Christoph  and Ramanan, Deva and Kong, Shu},
       booktitle={European Conference on Computer Vision (ECCV)},
       year={2022}
     }
